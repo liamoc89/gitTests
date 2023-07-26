@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi there, this is a test
+=======
+Hello, this is a test
+adding some extra text
+>>>>>>> newBranch
